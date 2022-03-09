@@ -1,7 +1,8 @@
 # stepik_auto_tests_course
 
-###Task answers for auto test stepik course.
+### Task answers for auto test stepik course.
 
-https://stepik.org/course/575/
+**course link:** https://stepik.org/course/575/
 
-2022
+Feb 2022
+MrMishin
